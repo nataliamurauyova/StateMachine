@@ -1,3 +1,3 @@
 # StateMachine
 Based on taxi service application
-![screenshot](Untitled Diagram.png)
+![image](https://raw.githubusercontent.com/nataliamurauyova/StateMachine/master/Untitled%20Diagram.png)
